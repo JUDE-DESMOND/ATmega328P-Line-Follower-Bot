@@ -1,4 +1,5 @@
 # Smart Line Follower Car using ATmega328P
+
 ![Uploading WhatsApp Image 2025-09-19 at 11.38.59_4cf26e14.jpg…]()
 
 A dual-mode autonomous robot car that follows a black line using IR sensors and avoids obstacles using an ultrasonic sensor. This project was developed as part of the **Microcontroller Laboratory** during the **2nd Year, 2nd Semester**.
